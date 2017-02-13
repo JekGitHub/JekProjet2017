@@ -5,7 +5,7 @@
 </head>
 <body>
 	<div>
-		<p>Ma page d'accueil</p>
+		<p>Ma page de test</p>
 	</div>
 </body>
 </html>
